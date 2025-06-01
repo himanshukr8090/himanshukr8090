@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @himanshukr8090
+- 👋 Hi, I’m Himanshu Kumar Singh
 - 👀 I’m interested in Cloud Infrastructure, DevOps, and Linux
 - 🌱 I’m currently learning Kubernetes-based deployments and cloud-native tools
 - 💞️ I’m looking to collaborate on Cloud-native projects, Kubernetes-based architectures, and intelligent web applications
