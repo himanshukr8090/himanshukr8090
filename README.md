@@ -29,7 +29,7 @@
 ## 🌱 Currently Learning
 
 - Kubernetes‑based deployments & architecture  
-- Cloud‑native tools: **ArgoCD**, **Istio**, **Prometheus**, **Grafana**, **Kiali**  
+- Cloud‑native tools: **ArgoCD**, **Prometheus**, **Grafana** 
 - MERN‑stack web applications & microservices  
 
 ---
@@ -40,7 +40,7 @@ I’m looking to contribute to and learn from projects in:
 
 - 🔸 **Cloud‑native architectures**  
 - 🔸 **Kubernetes‑based microservices**  
-- 🔸 **Intelligent web apps** (Flask, React, Node.js)  
+- 🔸 **Intelligent web apps** (Flask, React)  
 
 ---
 
@@ -51,7 +51,7 @@ I’m looking to contribute to and learn from projects in:
   
 | Cloud & Infra         | Containers & Orchestration | CI/CD & Automation         | Databases       | Dev & Collaboration |
 | --------------------- | --------------------------- | -------------------------- | --------------- | ------------------- |
-| AWS • EC2 • EKS • IAM | Docker • Kubernetes • Helm   | Jenkins • Ansible • GitOps | MySQL • MariaDB | Git • GitHub • VSCode |
+| AWS • EC2 • EKS • IAM | Docker • Kubernetes         | Jenkins • Ansible • GitOps | MySQL • MariaDB | Git • GitHub • VSCode |
 | Terraform • YAML      | Istio • Linkerd             | ArgoCD • GitHub Actions    | Redis           | JIRA • Confluence   |
   
 </details>
@@ -61,7 +61,7 @@ I’m looking to contribute to and learn from projects in:
 ## 📫 Contact Me
 
 - ✉️ **Email**: [himanshukumarsingh8090@gmail.com](mailto:himanshukumarsingh8090@gmail.com)  
-- 🔗 **Portfolio**: _coming soon..._  
+- 🔗 **Portfolio**: http://bit.ly/4o4o4AV 
 - 🐙 **GitHub**: [@himanshukr8090](https://github.com/himanshukr8090)  
 
 ---
