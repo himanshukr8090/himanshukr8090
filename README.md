@@ -60,9 +60,9 @@ I’m looking to contribute to and learn from projects in:
 
 ## 📫 Contact Me
 
-- ✉️ **Email**: [himanshukumarsingh8090@gmail.com](mailto:himanshukumarsingh8090@gmail.com)  
-- 🔗 **Portfolio**: http://bit.ly/4o4o4AV 
-- 🐙 **GitHub**: [@himanshukr8090](https://github.com/himanshukr8090)  
+- ✉️ **Email**:- [himanshukumarsingh8090@gmail.com](mailto:himanshukumarsingh8090@gmail.com)  
+- 🔗 **Portfolio**:- https://sensational-hummingbird-6495fa.netlify.app/ 
+- 🐙 **GitHub**:- [@himanshukr8090](https://github.com/himanshukr8090)  
 
 ---
 
